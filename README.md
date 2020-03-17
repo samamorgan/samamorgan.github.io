@@ -103,7 +103,7 @@ _Construction Laborer, 2004 to 2005_
 
 #### Western Governors University of Washington, currently attending
 
-#####_Pursuing Bachelor’s Degree in Science, Software Development_
+_Pursuing Bachelor’s Degree in Science, Software Development_
 
 #### Certifications
 
