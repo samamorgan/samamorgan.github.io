@@ -1,6 +1,7 @@
 # Site
 repository: samamorgan/samamorgan.github.io
 favicon: images/favicon.ico
+darkmode: true/false
 
 # Personal info
 name: Sam Morgan
