@@ -10,7 +10,7 @@ website: www.github.com/samamorgan/samamorgan.github.io
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username: sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -22,8 +22,7 @@ youtube_username: globalmtb
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-Programmer with a proven track record of organizing user and business needs into scalable, durable, and user-friendly solutions. Heavily focused on pay-it-forward style production code that is clean, maintainable, and modular.
+about_content: Programmer with a proven track record of organizing user and business needs into scalable, durable, and user-friendly solutions. Heavily focused on pay-it-forward style production code that is clean, maintainable, and modular.
 
 # Projects Section
 # projects_title: Projects
@@ -53,4 +52,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
