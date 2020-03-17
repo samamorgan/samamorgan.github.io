@@ -1,12 +1,12 @@
 # Site
-repository: sproogen/resume-theme
+repository: samamorgan/samamorgan.github.io
 favicon: images/favicon.ico
 
 # Personal info
 name: Sam Morgan
 title: Software Developer • Python Engineer
 email: sam@samamorgan.com
-website: www.github.com/samamorgan/samamorgan.github.io
+website: samamorgan.com
 
 # Social links
 twitter_username: facespics
@@ -16,7 +16,7 @@ github_username: sproogen
 # flickr_username: jekyll
 linkedin_username: sam-a-morgan
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 
 # About Section
